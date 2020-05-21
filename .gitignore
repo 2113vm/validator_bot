@@ -1,2 +1,5 @@
 invoke.yaml
 ./venv
+*.txt
+*.csv
+*.jpg
