@@ -1,0 +1,5 @@
+python-telegram-bot==10.0.1
+pandas==1.0.3
+invoke
+numpy
+PySocks==1.7.1
